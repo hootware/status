@@ -11,6 +11,7 @@ sites:
   - name: Don't Interrupt (www)
     url: https://www.dontinterrupt.app
     expectedStatusCodes:
+      - 200
       - 301
       - 302
 
