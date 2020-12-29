@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 927,
-    "timeDay": 927,
-    "timeWeek": 927,
-    "timeMonth": 927,
-    "timeYear": 927,
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dontinterrupt.app",
     "slug": "don-t-interrupt-www",
     "status": "up",
-    "uptime": "6.79%",
-    "uptimeDay": "6.79%",
-    "uptimeWeek": "6.79%",
-    "uptimeMonth": "6.79%",
-    "uptimeYear": "6.79%",
-    "time": 828,
-    "timeDay": 828,
-    "timeWeek": 828,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {
-      "2020-12-28": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
+    "dailyMinutesDown": {}
   }
 ]
