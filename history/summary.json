@@ -22,19 +22,19 @@
     "url": "https://dontinterrupt.app",
     "icon": "https://favicons.githubusercontent.com/dontinterrupt.app",
     "slug": "don-t-interrupt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 677,
-    "timeWeek": 631,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 743,
+    "timeDay": 753,
+    "timeWeek": 662,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 51
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.dontinterrupt.app",
     "icon": "https://favicons.githubusercontent.com/www.dontinterrupt.app",
     "slug": "don-t-interrupt-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 704,
-    "timeWeek": 635,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 745,
+    "timeDay": 741,
+    "timeWeek": 655,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 51
     }
   }
 ]
