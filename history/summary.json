@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 64,
-    "timeWeek": 536,
+    "timeWeek": 143,
     "timeMonth": 248,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://dontinterrupt.app",
     "icon": "https://favicons.githubusercontent.com/dontinterrupt.app",
     "slug": "don-t-interrupt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 1159,
-    "timeWeek": 517,
+    "timeWeek": 540,
     "timeMonth": 498,
     "timeYear": 703,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 798,
     "timeDay": 4390,
-    "timeWeek": 2168,
+    "timeWeek": 1126,
     "timeMonth": 1085,
     "timeYear": 812,
     "dailyMinutesDown": {}
