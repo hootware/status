@@ -1,7 +1,7 @@
 url: https://www.dontinterrupt.app
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2023-03-09T23:21:14.269Z
+status: down
+code: 500
+responseTime: 642
+lastUpdated: 2023-03-10T16:10:50.333Z
 startTime: Mon Dec 28 2020 08:21:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
