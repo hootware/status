@@ -22,19 +22,19 @@
     "url": "https://dontinterrupt.app",
     "icon": "https://icons.duckduckgo.com/ip3/dontinterrupt.app.ico",
     "slug": "don-t-interrupt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 704,
-    "timeDay": 649,
-    "timeWeek": 538,
-    "timeMonth": 594,
+    "timeDay": 607,
+    "timeWeek": 536,
+    "timeMonth": 592,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-06-26": 0
+      "2023-06-26": 23
     }
   },
   {
