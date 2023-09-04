@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 182,
-    "timeWeek": 164,
-    "timeMonth": 151,
+    "timeDay": 175,
+    "timeWeek": 166,
+    "timeMonth": 149,
     "timeYear": 167,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 826,
-    "timeWeek": 672,
+    "timeDay": 647,
+    "timeWeek": 692,
     "timeMonth": 580,
     "timeYear": 701,
     "dailyMinutesDown": {
@@ -42,19 +42,19 @@
     "url": "https://www.dontinterrupt.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.dontinterrupt.app.ico",
     "slug": "don-t-interrupt-www",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 887,
-    "timeWeek": 778,
+    "timeDay": 840,
+    "timeWeek": 824,
     "timeMonth": 697,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-09-04": 0
+      "2023-09-04": 14
     }
   }
 ]
