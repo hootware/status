@@ -22,18 +22,19 @@
     "url": "https://dontinterrupt.app",
     "icon": "https://icons.duckduckgo.com/ip3/dontinterrupt.app.ico",
     "slug": "don-t-interrupt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 681,
-    "timeDay": 435,
-    "timeWeek": 484,
-    "timeMonth": 576,
-    "timeYear": 680,
+    "timeDay": 432,
+    "timeWeek": 477,
+    "timeMonth": 571,
+    "timeYear": 681,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-06-26": 23
     }
   },
@@ -42,17 +43,19 @@
     "url": "https://www.dontinterrupt.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.dontinterrupt.app.ico",
     "slug": "don-t-interrupt-www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 496,
-    "timeWeek": 631,
-    "timeMonth": 711,
+    "timeDay": 532,
+    "timeWeek": 624,
+    "timeMonth": 707,
     "timeYear": 892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   }
 ]
